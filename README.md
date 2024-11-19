@@ -1,4 +1,3 @@
-```markdown
 # Student Management React App
 
 This project is a simple **React Application** that manages student details. It allows users to view, add, and list student details, such as name and email, using a local JSON server as the backend.
@@ -29,7 +28,6 @@ Before running this project, ensure you have the following installed on your sys
    ```bash
    git clone <your-repo-url>
    cd <your-project-folder>
-   ```
 
 2. **Install dependencies**:
    ```bash
